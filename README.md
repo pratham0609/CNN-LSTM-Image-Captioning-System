@@ -20,3 +20,7 @@ The purpose of this preprocessing is to organize the captions for
 each image, making it easier to access and manipulate the data
 during the subsequent steps of the code.
 
+
+Architecture details and results are present in pdf uploaded.
+
+Dataset link : https://drive.google.com/drive/folders/1RQ5qHm0aVFqWDG9VBiSnXlNPl5T15Wf_?usp=sharing
